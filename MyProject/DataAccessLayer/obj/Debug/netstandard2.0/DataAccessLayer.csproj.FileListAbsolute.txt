@@ -1,0 +1,14 @@
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\bin\Debug\netstandard2.0\CoreLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\bin\Debug\netstandard2.0\EntitiesLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\bin\Debug\netstandard2.0\CoreLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\bin\Debug\netstandard2.0\EntitiesLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

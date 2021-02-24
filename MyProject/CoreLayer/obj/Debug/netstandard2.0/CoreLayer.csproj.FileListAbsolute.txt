@@ -1,0 +1,9 @@
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\CoreLayer\bin\Debug\netstandard2.0\CoreLayer.deps.json
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\CoreLayer\bin\Debug\netstandard2.0\CoreLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\CoreLayer\bin\Debug\netstandard2.0\CoreLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.AssemblyInfoInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.AssemblyInfo.cs
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.csproj.CoreCompileInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.csprojAssemblyReference.cache

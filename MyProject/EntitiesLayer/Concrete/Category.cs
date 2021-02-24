@@ -1,0 +1,15 @@
+﻿using CoreLayer.Entities;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace EntitiesLayer.Concrete
+{
+        // Çıplak Class Kalmasın her class inheritance alsın
+    public class Category:IEntity
+    {
+        public int CategoryId { get; set; }
+        public string CategoryName { get; set; }
+
+    }
+}

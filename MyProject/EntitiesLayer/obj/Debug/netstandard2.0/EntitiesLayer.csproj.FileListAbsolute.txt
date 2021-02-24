@@ -1,0 +1,12 @@
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\obj\Debug\netstandard2.0\EntitiesLayer.AssemblyInfoInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\obj\Debug\netstandard2.0\EntitiesLayer.AssemblyInfo.cs
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\obj\Debug\netstandard2.0\EntitiesLayer.csproj.CoreCompileInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\bin\Debug\netstandard2.0\EntitiesLayer.deps.json
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\bin\Debug\netstandard2.0\EntitiesLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\bin\Debug\netstandard2.0\EntitiesLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\bin\Debug\netstandard2.0\CoreLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\bin\Debug\netstandard2.0\CoreLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\obj\Debug\netstandard2.0\EntitiesLayer.csproj.CopyComplete
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\obj\Debug\netstandard2.0\EntitiesLayer.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\obj\Debug\netstandard2.0\EntitiesLayer.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\MyProject\MyProject\EntitiesLayer\obj\Debug\netstandard2.0\EntitiesLayer.csprojAssemblyReference.cache
